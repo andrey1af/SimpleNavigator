@@ -1,7 +1,7 @@
 # SimpleNavigator
 
 ## About
-SimpleNavigator is a Java console application for working with weighted graphs represented by an adjacency matrix. The project includes graph loading/export, classic graph algorithms, and a Traveling Salesman Problem solver.
+SimpleNavigator is a Java console application for working with weighted graphs represented by an adjacency matrix. The project includes graph loading/export, classic graph algorithms, and a Traveling Salesman Problem solver. The project was carried out within the framework of School 21 - an educational project for developers from Sber.
 
 ## Features
 - Load graphs from `.txt` files (adjacency matrix format)
